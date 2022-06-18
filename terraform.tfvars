@@ -1,0 +1,7 @@
+AWS_ACCESS_KEY = "<AWS_ACCESS_KEY>"
+AWS_SECRET_KEY = "<AWS_SECRET_KEY>"
+sharif_vpc_cidr = "192.168.0.0/16"
+public_subnets = "192.168.0.0/24"
+AZ-1a-private_subnets = "192.168.1.0/24"
+AZ-1b-private_subnets = "192.168.2.0/24"
+database_subnets = "192.168.3.0/24"
